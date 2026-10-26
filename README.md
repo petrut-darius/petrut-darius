@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Petrut Darius-Ioan</h1>
+<h1 align="center">Hi, I'm Petrut Darius-Ioan</h1>
 <h3 align="center">A passionate fullstack developer from Romania</h3>
 
-- 🔭 I’m currently working on [track_your_time](https://github.com/petrut-darius/track_your_time)
+-  I’m currently working on [track_your_time](https://github.com/petrut-darius/track_your_time)
 
-- 🌱 I’m currently learning **Wordpress, Drupal & Magento 2**
+-  I’m currently learning **Wordpress, Drupal & Magento 2**
 
-- 🤝 I’m looking for help with [street_racers_shop](https://github.com/petrut-darius/street-racers-shop)
+-  I’m looking for help with [street_racers_shop](https://github.com/petrut-darius/street-racers-shop)
 
-- 👨‍💻 All of my projects are available at [working on it...](working on it...)
+-  All of my projects are available at [working on it...](working on it...)
 
-- 💬 Ask me about **PHP Frameworks**
+-  Ask me about **PHP Frameworks**
 
-- 📫 How to reach me **eminoviciidarius@gmail.com**
+-  How to reach me **eminoviciidarius@gmail.com**
 
-- 📄 Know about my experiences [working on it...](working on it...)
+-  Know about my experiences [working on it...](working on it...)
 
-- ⚡ Fun fact **I really enjoy learning new things**
+-  Fun fact **I really enjoy learning new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
